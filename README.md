@@ -314,6 +314,7 @@ npx skills add https://github.com/gmh5225/awesome-ai-security --skill ai-powered
 - https://github.com/botiverse/agent-vault [Keep secrets hidden from AI agents - placeholder I/O layer, encrypted vault]
 - https://github.com/alrinny/agent-chat [E2E encrypted agent-to-agent messaging, prompt injection guardrail]
 - https://github.com/numbergroup/AgentGuard [AgentGuard - prompt/command injection, Unicode bypass, Clinejection-style, GitHub issue screening, OpenClaw + MCP]
+- https://github.com/theDoc001/fivedrisk [Per-action runtime governance for AI agents: deterministic 5D scoring (Data, Tool, Reversibility, External, Autonomy), Markov SafetyDrift across compositional risk, injection/leakage scanners, append-only audit log + NDJSON event stream for SIEM, LangGraph node and Claude Agent SDK hooks. Apache-2.0.]
 - https://github.com/onecli/onecli [OneCLI - Open-source credential vault for AI agents. Rust HTTP gateway injects API credentials transparently so agents never hold raw keys. AES-256-GCM encryption, per-agent scoping, audit trail]
 - https://github.com/future-agi/future-agi [Future AGI - Open-source self-hostable agent engineering platform with real-time guardrails (jailbreak, PII, injection, toxicity), tracing, evals, simulations, and gateway for AI agents]
 
